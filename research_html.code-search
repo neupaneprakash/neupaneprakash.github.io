@@ -1,0 +1,39 @@
+# Query: research..html
+# ContextLines: 1
+
+7 results - 7 files
+
+Vesperr/contact.html:
+  55            <li><a href="students.html">Students</a></li>
+  56:           <li><a href="research.html">Research</a></li>
+  57            <li><a href ="opening.html">Openings</a></li>
+
+Vesperr/gallary.html:
+  55            <li><a href="students.html">Students</a></li>
+  56:           <li><a href="research.html">Research</a></li>
+  57            <li><a href ="opening.html">Openings</a></li>
+
+Vesperr/index.html:
+  71            <li><a href="students.html">Students</a></li>
+  72:           <li><a href="research.html">Research</a></li>
+  73            <li><a href ="opening.html">Openings</a></li>
+
+Vesperr/master.html:
+  55            <li><a href="students.html">Students</a></li>
+  56:           <li><a href="research.html">Research</a></li>
+  57            <li><a href ="opening.html">Openings</a></li>
+
+Vesperr/opening.html:
+  55            <li><a href="students.html">Students</a></li>
+  56:           <li><a href="research.html">Research</a></li>
+  57            <li><a href ="opening.html">Openings</a></li>
+
+Vesperr/research.html:
+  55            <li><a href="students.html">Students</a></li>
+  56:           <li><a href="research.html">Research</a></li>
+  57            <li><a href ="opening.html">Openings</a></li>
+
+Vesperr/students.html:
+  55            <li><a href="students.html">Students</a></li>
+  56:           <li><a href="research.html">Research</a></li>
+  57            <li><a href ="opening.html">Openings</a></li>
